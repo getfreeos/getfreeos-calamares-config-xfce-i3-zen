@@ -1,0 +1,23 @@
+- name: "ArcoLinux Dev"
+  description: "Software for ArcoLinux developers and betatesters"
+  critical: false
+  hidden: false
+  selected: false
+  expanded: true
+  packages:
+    - arcolinux-powermenu-git
+    - chromium
+    - flameshot-git
+    - gimp
+    - inkscape
+    - vivaldi
+    - vivaldi-ffmpeg-codecs
+    - vivaldi-widevine
+    - gitahead-bin
+    - meld
+    - scrot
+    - simplescreenrecorder
+    - the_platinum_searcher-bin
+    - thunar
+    - thunar-archive-plugin
+    - thunar-volman
